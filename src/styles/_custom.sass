@@ -1,15 +1,19 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 35%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 40%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 20%
 
 @keyframes float1
   0%
@@ -17,3 +21,65 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-interno__titulo__icono i
+  color: #0F1E52 !important
+
+.linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+  background-color: #FDF3D6
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #F3C035
+
+.tarjeta--gris
+  background-color: #F0F2FD
+
+.tarjeta.color-primario
+  background-color: #DEE3F9
+  h4, p, i
+    color: #12263F !important
+
+.img-infografica__item__tooltip, .img-infografica-b__item__tooltip
+  background-color: transparent !important
+
+.bg-c1
+  background-image: url(../assets/curso/tema1/img2.svg)
+  background-size: contain
+  background-repeat: no-repeat
+
+.bg-c2
+  background-color: #F0FAF7
+
+.bg-c3
+  background-color: #F0F1FD
+
+.bg-c4
+  background-color: #FFF4D6
+
+.bg-c5
+  background-color: #F8BD7C
+
+.bg-c6
+  background-color: #FAC20E
+  border-radius: 15px
+
+.txt-c1
+  background-color: #6ACEAE
+  padding: 3px
+
+@media screen and ( max-width: 992px )
+
+  .linea-tiempo-d__item__content__title
+    height: 80px
+
+  .bg-c1
+    background-image: none
+    background-color: #FFEEDF
+    padding: 20px
