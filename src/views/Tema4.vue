@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Documentación de hallazgos 
-    p.mb-5(data-aos="fade-right") La documentación de hallazgos es el resultado del ejercicio realizado durante la ejecución del proceso de auditoría, que las entidades de fiscalización generan sobre la gestión de todos los procesos de los auditados (personas, instituciones, empresas, etc.) y que servirá para evaluar si se cumple o no con lo que se está auditando. En el siguiente tutorial se brinda información, sobre cómo realizar un reporte. 
+    p.mb-5(data-aos="fade-right") La documentación de hallazgos es el resultado del ejercicio realizado durante la ejecución del proceso de auditoría, que las entidades de fiscalización generan sobre la gestión de todos los procesos de los auditados (personas, instituciones, empresas, etc.). Esta documentación servirá para evaluar si se cumple o no con lo que se está auditando. En el siguiente tutorial se brinda información sobre cómo realizar un reporte.
     figure.mb-5(data-aos="fade-up")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Bzz5x6ymxQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -15,7 +15,7 @@
         figure
           img(src='@/assets/curso/tema4/img1.svg')
       .col-lg(data-aos="fade-left")
-        p La documentación y saber mostrar los resultados de las pruebas a los clientes u organizaciones es muy importante, además, aprender a interpretarlos ayudará a darle una visión al trabajo posterior de las pruebas, ofreciendo unas recomendaciones para corregir esas vulnerabilidades. 
+        p La documentación y la presentación de los resultados de las pruebas a clientes u organizaciones es muy importante. Además, el aprendizaje de su interpretación ayudará a darle una visión al trabajo posterior de las pruebas, ofreciendo recomendaciones para corregir las vulnerabilidades encontradas. 
           br
           br
           | Por lo anterior, en el siguiente video se mostrará cómo se genera el reporte de los hallazgos y cómo se debe interpretar. Esta herramienta permite exportar un reporte en PDF y uno en HTML y se va a mostrar cada uno de ellos explicando grosso modo cómo deben interpretarse. 
@@ -35,7 +35,7 @@
                     img(src='@/assets/curso/tema4/img1.png' alt="Captura de pantalla del reporte de parámetros.")
           .row(numero="2" titulo="Revisar los resúmenes")
             .col-12
-              p.mb-4 En esta segunda sección se muestra el conteo de las alertas en una matriz de riesgos x confianzas, con su debido porcentaje de una contra la otra.
+              p.mb-4 En esta segunda sección se muestra el conteo de las alertas en una matriz de riesgos (filas) contra confianzas (columnas), con su debido porcentaje de una contra la otra.
               .row.justify-content-center
                 .col-lg-6
                   figure
@@ -63,7 +63,7 @@
                     img(src='@/assets/curso/tema4/img5.png' alt="Ejemplo de alertas detectadas de acuerdo al nivel de riesgo.")
           .row(numero="6" titulo="Reconocer el apéndice")
             .col-12
-              p.mb-4 Igualmente en esta tercera sección el apéndice lo que muestra es cada una de las alertas y algunas referencias para más información de cada una.
+              p.mb-4 En esta tercera sección, el apéndice muestra cada una de las alertas, así como algunas referencias para más información de cada una.
               .row.justify-content-center
                 .col-lg-6
                   figure

@@ -9,7 +9,7 @@
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg.mb-4.mb-lg-0
         p En la actualidad la amenaza más grande a la que se deben enfrentar las empresas son los ciberataques, teniendo en cuenta que no solo afecta a las empresas, sino también a los individuos particulares e incluso Estados y sociedades. 
-        p Por lo tanto, las medidas que se toman en la seguridad informática se han vuelto prioritarias, sobre todo para las organizaciones que dependen casi en su totalidad para funcionar de internet. Las vulnerabilidades en estas aplicaciones y los métodos utilizados para que los atacantes no sean detectados se han convertido en pan de cada día y la práctica de buscar cómo infiltrarse sigue aumentando a diario. Por eso, es necesario mostrar qué clase de ataques existen para ser detectados e identificar su impacto. 
+        p Por lo tanto, las medidas que se toman en la seguridad informática se han vuelto prioritarias, sobre todo para las organizaciones que dependen casi en su totalidad para funcionar de internet. Las vulnerabilidades en estas aplicaciones y los métodos utilizados por los atacantes para no ser detectados se han convertido en algo habitual. La práctica de buscar cómo infiltrarse sigue aumentando a diario. Por eso, es necesario mostrar qué tipos de ataques existen para poder detectarlos e identificar su impacto. 
       .col-lg-auto
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width: 400px").m-auto
@@ -22,7 +22,7 @@
         .row.mb-4
           .col-12.bg-c3.p-4
             H4 Importante: 
-            p Para hacer las pruebas es necesario conocer las anteriores terminologías, pues existen diversas técnicas que son utilizadas para atacar una aplicación #i web y qué datos son sensibles a vulnerabilidades; por ello, es necesario contar con una herramienta adecuada para hacer diagnósticos y detectar cada vulnerabilidad.
+            p Para hacer las pruebas es necesario conocer las anteriores terminologías, pues existen diversas técnicas que son utilizadas para atacar una aplicación web y qué datos son sensibles a vulnerabilidades; por ello, es necesario contar con una herramienta adecuada para hacer diagnósticos y detectar cada vulnerabilidad.
             p.mb-0 Por lo anterior y en adelante, se encontrará en este componente formativo una prueba a un sitio web, en la que se utilizará una herramienta de detección de vulnerabilidades a una aplicación.  
         .row
           .col-12.bg-c4.p-4

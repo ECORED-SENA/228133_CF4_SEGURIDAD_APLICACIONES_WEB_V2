@@ -6,14 +6,14 @@
       .titulo-principal__numero
         span 3
       h1 Prueba de seguridad orientada a aplicaciones web  
-    p.mb-5(data-aos="fade-up") Con miras a la ejecución de una prueba de seguridad es necesario observar el video tutorial que se presenta a continuación, el cual brinda los elementos para utilizar la herramienta Owasp ZAP, de manera correcta.
+    p.mb-5(data-aos="fade-up") Con miras a la ejecución de una prueba de seguridad es necesario observar el video tutorial que se presenta a continuación, el cual brinda los elementos para utilizar la herramienta OWASP ZAP, de manera correcta.
     figure.mb-5(data-aos="fade-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/a2kwGQByrYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
-        p A continuación, se muestra una forma práctica de identificar vulnerabilidades, que, aunque no se sepa cómo explotarlas, es seguro que hay quien sí lo haga en perjuicio de una persona, o cliente y sus reputaciones. Por razones de seguridad con las empresas testeadas, los ejemplos que se presentarán han sido tomados de alguna página web de una entidad del Estado, de la cual se reservar el nombre y sus datos, además de que la imagen gráfica será editada para no comprometer la reputación de la entidad. 
-        p.mb-0 Para iniciar, se debe instalar la aplicación Owasp ZAP, en un sistema Windows 10, este aplicativo tiene como propósito hacer pruebas de vulnerabilidad en aplicaciones y tiene como prerrequisito la instalación de JDK de JAVA, por tanto, para realizar estas instalaciones, debe recurrir al material complementario de este componente formativo, específicamente al denominado #[b “Owasp ZAP, audita la seguridad de webs y evita vulnerabilidades”] (De Luz, 2021), allí se encuentran los enlaces de los manuales, en caso de que no se tengan estas dos aplicaciones en el computador. 
+        p A continuación, se muestra una forma práctica de identificar vulnerabilidades. Aunque no se sepa cómo explotarlas, es seguro que hay quien sí lo hará, en perjuicio de una persona, un cliente o sus reputaciones. Por razones de seguridad con las empresas testeadas, los ejemplos que se presentarán han sido tomados de alguna página web de una entidad del Estado, de la cual se reservará el nombre y sus datos. Además, la imagen gráfica será editada para no comprometer la reputación de la entidad. 
+        p.mb-0 Para iniciar, se debe instalar la aplicación OWASP ZAP en un sistema Windows 10. Este aplicativo tiene como propósito hacer pruebas de vulnerabilidad en aplicaciones y requiere la instalación de JDK de JAVA como prerrequisito. Para realizar estas instalaciones, se debe recurrir al material complementario de este componente formativo, específicamente al denominado #[b “OWASP ZAP, audita la seguridad de webs y evita vulnerabilidades” (De Luz, 2021).] Allí se encuentran los enlaces de los manuales, en caso de que no se tengan estas dos aplicaciones en el computador. 
       .col-lg-auto(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.png')
@@ -25,7 +25,7 @@
               li.mb-3
                 i.fas.fa-play(style="color: #294DDC")
                 | 
-                p.mb-0 Una vez instalado el JDK puede continuar.
+                p.mb-0 Una vez instalado el #[em JDK] puede continuar.
               li
                 i.fas.fa-play(style="color: #294DDC")
                 | 
@@ -115,7 +115,7 @@
                   li
                     i.fas.fa-play(style="color: #294DDC")
                     |
-                    p.mb-0 El programa le pregunta si quiere continuar con esta sesión de la aplicación, se contesta #[b Sí, yo quiero continuar…]
+                    p.mb-0 El programa le pregunta si quiere continuar con esta sesión de la aplicación, se contesta #[b “Sí, yo quiero continuar…”]
         .row.justify-content-center(titulo="")
           .col-10.p-4
             .row
@@ -151,15 +151,15 @@
           img(src='@/assets/curso/tema3/img1.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .text-white.p-5
-              h4.text-center Absence of Anti-CSRF Tokens
-              p Según el reporte en la imagen, la página #[i web] tiene 208 formularios vulnerables a ataques de SCRF.
+              h4.text-center.fst-italic Absence of Anti-CSRF Tokens
+              p Según el reporte en la imagen, la página web tiene 208 formularios vulnerables a ataques de SCRF.
       .col-md-8.col-lg-4.mb-4.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .text-white.p-5
-              h4.text-center Cookie No HttpOnly Flag
-              p Esta vulnerabilidad trata que otras #[i webs] pueden acceder a los datos de usuario o datos de sesión basados en #[i cookies]. Se resuelve de varias maneras, tal vez la más sencilla es agregando una configuración en el servidor.
+              h4.text-center.fst-italic Cookie No HttpOnly Flag
+              p Esta vulnerabilidad trata que otras webs pueden acceder a los datos de usuario o datos de sesión basados en #[i cookies]. Se resuelve de varias maneras, tal vez la más sencilla es agregando una configuración en el servidor.
     .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-lg-8.p-4.bg-c6
         .row.align-items-center
@@ -186,7 +186,7 @@
         figure
           img(src='@/assets/curso/tema3/img13.png')
       .col-lg(data-aos="fade-left")
-        p Este sitio web está usando una librería jQuery Mobile en su versión 1.4.5, pero esa versión de esa librería tiene vulnerabilidades detectadas por la comunidad JQuery y seguramente en los foros de la comunidad jQuery se detectó y es un indicio de cómo vulnerar este sistema, pero en la imagen se propone una solución y es que se actualice la librería. 
+        p Este sitio web utiliza la librería jQuery Mobile en su versión 1.4.5. Sin embargo, esta versión tiene vulnerabilidades detectadas por la comunidad jQuery, las cuales podrían ser aprovechadas por atacantes. En la imagen se propone una solución: actualizar la librería a la versión más reciente. 
         p.mb-0 Si se observa en el resultado de las pruebas, los ataques que hace la herramienta a los sitios web que se van a probar son los mencionados uno a uno en el primer tema de este componente formativo. 
 </template>
 
