@@ -174,7 +174,7 @@
         ImagenInfograficaB.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso//tema3/img12.png', alt='')
+              img(src='@/assets/curso//tema3/img12.png', alt='Captura de pantalla de un caso crítico en el que se está usando la versión de una librería con vulnerabilidades detectadas y pide ser actualizada.')
           div(x="47%" y="37%" numero="")
             figure
               img(src='@/assets/curso/tema3/img14.png')

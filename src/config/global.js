@@ -105,7 +105,7 @@ export default {
     {
       tema: '1. Tipología de ataques web.',
       referencia:
-        'Belcic, I. (2020). <em>¿Qué es la inyección de SQL y cómo funciona?</em>Avast.',
+        'Belcic, I. (2020). <em>¿Qué es la inyección de SQL y cómo funciona?</em> Avast.',
       tipo: 'Página web ',
       link: 'https://www.avast.com/es-es/c-sql-injection  ',
     },
@@ -156,53 +156,53 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Amenaza ',
+      termino: 'Amenaza',
       significado:
         'cualquier evento que puede afectar los activos de información y se relaciona, principalmente, con recursos humanos, eventos naturales o fallas técnicas. ',
     },
     {
-      termino: 'Aplicación ',
+      termino: 'Aplicación',
       significado:
-        'programa informático diseñado como una herramienta para realizar operaciones o funciones específicas. Generalmente, son diseñadas para facilitar ciertas tareas complejas y hacer más sencilla la experiencia informática de las personas. ',
+        'es un programa informático diseñado como una herramienta para realizar operaciones o funciones específicas. Generalmente, son diseñadas para facilitar ciertas tareas complejas y hacer más sencilla la experiencia informática de las personas. ',
     },
     {
-      termino: 'Base de datos ',
+      termino: 'Base de datos',
       significado:
-        'recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. ',
+        'es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. ',
     },
     {
-      termino: '<em>Browser</em> ',
+      termino: '<em>Browser</em>',
       significado:
         'es el término inglés que se utiliza para identificar a un navegador web o navegador de internet, consiste en un <em> software</em>, programa o incluso aplicación, que ofrece al usuario el acceso a la red ',
     },
     {
-      termino: 'Delegar ',
+      termino: 'Delegar',
       significado:
         'dar (a una persona u organización) un poder, una función o una responsabilidad a alguien para que los ejerza en su lugar o para obrar en representación suya.',
     },
     {
-      termino: 'Implementación ',
+      termino: 'Implementación',
       significado:
         'poner en funcionamiento o aplicar métodos, medidas, etc., para realizar algo. ',
     },
     {
-      termino: 'Interfaz ',
+      termino: 'Interfaz',
       significado:
         'en informática, es la conexión física y funcional que se establece entre dos aparatos, dispositivos o sistemas que funcionan independientemente uno del otro, en este sentido, la comunicación entre un ser humano y una computadora se realiza por medio de una interfaz. ',
     },
     {
-      termino: 'OWASP ',
-      significado: '<em>Open web Application Security.</em> ',
+      termino: 'OWASP',
+      significado: '<em>Open Web Application Security.</em> ',
     },
     {
-      termino: 'Riesgo ',
+      termino: 'Riesgo',
       significado:
-        'posibilidad de que una amenaza se produzca, dando lugar a un ataque sobre un recurso o servicio tecnológico; esto no es otra cosa que la probabilidad de que ocurra el ataque por parte de la amenaza. ',
+        'es la posibilidad de que una amenaza se produzca, dando lugar a un ataque sobre un recurso o servicio tecnológico; esto no es otra cosa que la probabilidad de que ocurra el ataque por parte de la amenaza. ',
     },
     {
-      termino: 'Servidor ',
+      termino: 'Servidor',
       significado:
-        'conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. ',
+        'es un conjunto de computadoras capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. ',
     },
   ],
   referencias: [
@@ -236,7 +236,7 @@ export default {
     },
     {
       referencia:
-        'ISO/IEC. (2020). <em>Tecnologías de la información. Técnicas de seguridad.</em> Directrices para ciberseguridad.',
+        'ISO/IEC. (2020). <em>Tecnologías de la información. Técnicas de seguridad. Directrices para ciberseguridad.</em>',
       link:
         'https://tienda.icontec.org/gp-tecnologias-de-la-informacion-tecnicas-de-seguridad-directrices-para-ciberseguridad-gtc-iso-iec27032-2020.html ',
     },
