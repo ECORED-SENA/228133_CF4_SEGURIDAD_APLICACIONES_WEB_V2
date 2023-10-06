@@ -9,7 +9,8 @@
     p.mb-5(data-aos="fade-right") La documentación de hallazgos es el resultado del ejercicio realizado durante la ejecución del proceso de auditoría, que las entidades de fiscalización generan sobre la gestión de todos los procesos de los auditados (personas, instituciones, empresas, etc.). Esta documentación servirá para evaluar si se cumple o no con lo que se está auditando. En el siguiente tutorial se brinda información sobre cómo realizar un reporte.
     figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Bzz5x6ymxQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/35jxesURQqI?si=vIQHowmyb6ofzTVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Instructivo Descarga Reporte Vulnerabilidades
     .row.align-items-center.mb-5
       .col-lg-auto.mb-4.mb-lg-0(data-aos="fade-right")
         figure

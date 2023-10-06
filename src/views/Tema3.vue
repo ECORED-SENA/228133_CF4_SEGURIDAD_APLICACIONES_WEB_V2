@@ -9,7 +9,8 @@
     p.mb-5(data-aos="fade-up") Con miras a la ejecución de una prueba de seguridad es necesario observar el video tutorial que se presenta a continuación, el cual brinda los elementos para utilizar la herramienta OWASP ZAP, de manera correcta.
     figure.mb-5(data-aos="fade-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/a2kwGQByrYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/sZxqI_F30OY?si=YIfxFbYlTVIsI8F7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Instalación OWASP ZAP
     .row.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
         p A continuación, se muestra una forma práctica de identificar vulnerabilidades. Aunque no se sepa cómo explotarlas, es seguro que hay quien sí lo hará, en perjuicio de una persona, un cliente o sus reputaciones. Por razones de seguridad con las empresas testeadas, los ejemplos que se presentarán han sido tomados de alguna página web de una entidad del Estado, de la cual se reservará el nombre y sus datos. Además, la imagen gráfica será editada para no comprometer la reputación de la entidad. 

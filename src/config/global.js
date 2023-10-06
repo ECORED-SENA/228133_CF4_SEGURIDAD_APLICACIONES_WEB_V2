@@ -87,7 +87,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF04_228133_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -123,14 +123,14 @@ export default {
       tipo: 'Video  ',
       link: 'https://youtu.be/hCBEavs08as ',
     },
-    {
-      tema: '1. Tipología de ataques web.',
-      referencia:
-        'WeLiveSecurity. (2015). <em>¿En qué consiste la vulnerabilidad Cross Site Request Forgery (CSRF)?</em> We Live Security.',
-      tipo: 'Pagina web ',
-      link:
-        'https://www.welivesecurity.com/la-es/2015/04/21/vulnerabilidad-cross-site-request-forgery-csrf/ ',
-    },
+    // {
+    //   tema: '1. Tipología de ataques web.',
+    //   referencia:
+    //     'WeLiveSecurity. (2015). <em>¿En qué consiste la vulnerabilidad Cross Site Request Forgery (CSRF)?</em> We Live Security.',
+    //   tipo: 'Pagina web ',
+    //   link:
+    //     'https://www.welivesecurity.com/la-es/2015/04/21/vulnerabilidad-cross-site-request-forgery-csrf/ ',
+    // },
     {
       tema: '1. Tipología de ataques web.',
       referencia:
@@ -148,10 +148,10 @@ export default {
     {
       tema: '3. Prueba de seguridad orientada a aplicaciones web.',
       referencia:
-        'De Luz, S. (2021). <em>Owasp ZAP, audita la seguridad de webs y evita vulnerabilidades.</em> RedesZone.',
+        'De Genez, G. (2021). <em>Owasp ZAP, audita la seguridad de webs y evita vulnerabilidades.</em> SeguridadPy.',
       tipo: 'Pagina web',
       link:
-        'https://www.redeszone.net/tutoriales/seguridad/owasp-zap-auditar-seguridad-web/  ',
+        'https://seguridadpy.info/2021/05/owasp-zap-audita-la-seguridad-de-webs-y-evita-vulnerabilidades/',
     },
   ],
   glosario: [
@@ -299,12 +299,12 @@ export default {
           cargo: 'Asesor Metodológico ',
           centro: 'Regional Distrito Capital – Centro de Diseño y Metrología ',
         },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo: 'Responsable Equipo de Desarrollo Curricular',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
+        // {
+        //   nombre: 'Rafael Neftalí Lizcano Reyes ',
+        //   cargo: 'Responsable Equipo de Desarrollo Curricular',
+        //   centro:
+        //     'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        // },
         {
           nombre: 'José Gabriel Ortiz Abella ',
           cargo: 'Corrector de estilo ',

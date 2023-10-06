@@ -16,7 +16,8 @@
     p.mb-5 A continuación, en el siguiente video se exponen los ataques más comunes. 
     figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ?si=PYooyl6zgjRrb6b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Ataques de seguridad en la red
     .row
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         .row.mb-4

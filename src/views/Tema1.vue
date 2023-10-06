@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Tipología de ataques  web
+      h1 Tipología de ataques web
     p.mb-5(data-aos="fade-right") Para las organizaciones en la actualidad, es indispensable adquirir aplicaciones web como base tecnológica para darse a conocer. Por esta razón, muchas empresas y negocios apuestan a incluir estas tecnologías como estrategia para competir en el mercado. Estas plataformas son importantes para una empresa porque automatizan los procesos, simplifican las tareas y se vuelven más eficientes al momento de prestar sus servicios al cliente. Además, lo mejor de todo es que funcionan solo desde un navegador, por lo que no es necesario instalar paquetes en el computador y su acceso es desde cualquier dispositivo con previa autenticación.
     .row.align-items-center.bg-c1.mb-5(data-aos="fade-left")
       .col-lg.mb-4.mb-lg-0
