@@ -12,7 +12,7 @@
     figure(data-aos="fade-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/EzwJQO1cY4A?si=1ZGQZpD8jOG_m6nB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Pruebas de seguridad orientadas a aplicaciones web con OWASP
+      figcaption Video. Pruebas de seguridad orientadas a aplicaciones web con OWASP
     
 </template>
 
