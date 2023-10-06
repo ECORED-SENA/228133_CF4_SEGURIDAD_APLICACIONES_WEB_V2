@@ -22,7 +22,7 @@
           | Por lo anterior, en el siguiente video se mostrará cómo se genera el reporte de los hallazgos y cómo se debe interpretar. Esta herramienta permite exportar un reporte en PDF y uno en HTML y se va a mostrar cada uno de ellos explicando grosso modo cómo deben interpretarse. 
     figure.mb-5(data-aos="fade-up")
       .video
-        iframe(width="560" height="315" src="https://youtu.be/beBZ3qlvuTo?si=Szgd9fyKlEKtKYCu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/beBZ3qlvuTo?si=IjuqG98Wduk3Nlii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Reporte OWASP
     .row.justify-content-center.mb-5
       .col-lg-10
