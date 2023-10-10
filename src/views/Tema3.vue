@@ -44,7 +44,7 @@
                   li
                     i.fas.fa-play(style="color: #294DDC")
                     |
-                    p.mb-0 Descargue la versión compatible con su sistema operativo, si no está seguro use la de 32 bits ya que sirve en sistemas operativos de 32 bits y 64 bits.
+                    p.mb-0 Descargue la versión compatible con su sistema operativo, si no está seguro use la de 32 #[em bits], ya que sirve en sistemas operativos de 32 #[em bits] y 64 #[em bits].
         .row.justify-content-center(titulo="")
           .col-10.p-4
             .row

@@ -9,7 +9,7 @@
     p.mb-5(data-aos="fade-right") Para las organizaciones en la actualidad, es indispensable adquirir aplicaciones web como base tecnológica para darse a conocer. Por esta razón, muchas empresas y negocios apuestan a incluir estas tecnologías como estrategia para competir en el mercado. Estas plataformas son importantes para una empresa porque automatizan los procesos, simplifican las tareas y se vuelven más eficientes al momento de prestar sus servicios al cliente. Además, lo mejor de todo es que funcionan solo desde un navegador, por lo que no es necesario instalar paquetes en el computador y su acceso es desde cualquier dispositivo con previa autenticación.
     .row.align-items-center.bg-c1.mb-5(data-aos="fade-left")
       .col-lg.mb-4.mb-lg-0
-        p.ms-0.ms-lg-5 La principal función actualmente de #[em las aplicaciones web es que el usuario o cliente realice una tarea, como comprar, realizar pagos a la empresa], realizar una transacción bancaria, editar textos, fotos y muchas más cosas y prestar un sinfín de servicios, por esta razón se han vuelto tan populares.
+        p.ms-0.ms-lg-5 La principal función actualmente de #[b las aplicaciones web es que el usuario o cliente realice una tarea, como comprar, realizar pagos a la empresa], realizar una transacción bancaria, editar textos, fotos y muchas más cosas y prestar un sinfín de servicios, por esta razón se han vuelto tan populares.
           br
           br
           |Entre muchas de sus ventajas, se presenta una desventaja con la que hay que tener mucho cuidado y son las brechas de seguridad y vulnerabilidades.  
