@@ -234,12 +234,11 @@ export default {
       link:
         'https://www.linkedin.com/pulse/gesti%C3%B3n-de-la-ciberseguridad-seg%C3%BAn-el-isoiec-gianncarlo-g%C3%B3mez-morales ',
     },
-    // {
-    //   referencia:
-    //     'ISO/IEC. (2020). <em>Tecnologías de la información. Técnicas de seguridad. Directrices para ciberseguridad.</em>',
-    //   link:
-    //     'https://tienda.icontec.org/gp-tecnologias-de-la-informacion-tecnicas-de-seguridad-directrices-para-ciberseguridad-gtc-iso-iec27032-2020.html ',
-    // },
+    {
+      referencia:
+        'ISO/IEC. (2020). <em>Tecnologías de la información. Técnicas de seguridad. Directrices para ciberseguridad.</em>',
+      link: '',
+    },
     {
       referencia:
         'Portal de la Administración Electrónica - PAE (s. f.). <em>Magerit v.3: Metodología de análisis y gestión de riesgos de los sistemas de información.</em>',
